@@ -1,1 +1,2 @@
-# welcome
+# Welcome to our CodaHiri community!
+##
